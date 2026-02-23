@@ -1,0 +1,1 @@
+/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/riff_plugin_qobuz.wasm: /Users/amaslar/riff/riff-plugin-qobuz/src/client.rs /Users/amaslar/riff/riff-plugin-qobuz/src/lib.rs /Users/amaslar/riff/riff-plugin-qobuz/src/models.rs /Users/amaslar/riff/riff-plugin-qobuz/src/types.rs

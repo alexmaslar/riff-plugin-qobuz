@@ -1,0 +1,14 @@
+/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/deps/serde-e8070361ea5281b0.d: /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/build/serde-8f03f091fe563dfa/out/private.rs
+
+/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/deps/libserde-e8070361ea5281b0.rlib: /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/build/serde-8f03f091fe563dfa/out/private.rs
+
+/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/deps/libserde-e8070361ea5281b0.rmeta: /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/build/serde-8f03f091fe563dfa/out/private.rs
+
+/Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/amaslar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/build/serde-8f03f091fe563dfa/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/amaslar/riff/riff-plugin-qobuz/target/wasm32-unknown-unknown/release/build/serde-8f03f091fe563dfa/out

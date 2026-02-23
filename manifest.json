@@ -1,0 +1,34 @@
+{
+    "id": "qobuz",
+    "name": "Qobuz",
+    "version": "0.1.0",
+    "description": "Stream hi-res audio from Qobuz via SquidWTF proxy",
+    "author": "riff",
+    "capabilities": ["streaming"],
+    "permissions": {
+        "http": {
+            "reason": "Calls Qobuz API via SquidWTF proxy",
+            "required_hosts": [
+                "qobuz.squid.wtf",
+                "*.squid.wtf",
+                "*.qobuz.com"
+            ]
+        }
+    },
+    "settings": [
+        {
+            "key": "quality",
+            "label": "Audio Quality",
+            "field_type": "select",
+            "required": false,
+            "help_text": "Default streaming quality. Default: Lossless"
+        },
+        {
+            "key": "country",
+            "label": "Country Code",
+            "field_type": "string",
+            "required": false,
+            "help_text": "Two-letter country code. Default: US"
+        }
+    ]
+}
